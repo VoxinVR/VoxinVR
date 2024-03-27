@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Virtual Reality Applications with Unity
+- 🌱 I’m currently learning about Meta's new mixed reality features
+- 👯 I’m looking to collaborate on MR/VR stuff and building hardware
+- 😄 Pronouns: he/him
+
 <!--
 **VoxinVR/VoxinVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
